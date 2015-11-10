@@ -10,4 +10,6 @@
 5.  jeecg入门视频下载
     http://www.jeecg.org/forum.php?mod=viewthread&tid=197&extra=page%3D1
 
-   注意： 不支持jdk8;必须手工执行doc\db下的数据库脚本	
+   注意： 不支持jdk8;必须手工执行doc\db下的数据库脚本
+   
+   123
