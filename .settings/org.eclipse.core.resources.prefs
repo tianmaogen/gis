@@ -3,4 +3,6 @@ encoding//doc/\u5165\u95E8\u5FC5\u8BFB.txt=GBK
 encoding//src/main/java=UTF-8
 encoding//src/main/resources=UTF-8
 encoding//src/main/resources/dbconfig.properties=utf-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
 encoding/<project>=UTF-8
